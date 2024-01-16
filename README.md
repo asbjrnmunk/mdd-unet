@@ -9,6 +9,7 @@
 ## Description
 Repository for the paper `MDD-UNet: Domain Adaptation for Medical Image Segmentation with Theoretical Guarantees, a Proof of Concept` published at the 5th Northern Lights Deep Learning Conference (NLDL), 2024.
 
+[Arxiv Link](https://arxiv.org/abs/2312.12246)
 
 ### Citation
 Please use
