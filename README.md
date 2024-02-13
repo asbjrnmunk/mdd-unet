@@ -2,7 +2,7 @@
 
 # MDD-UNet
 
-[![Paper](https://img.shields.io/badge/arXiv-1904.10620-44cc11.svg)](https://arxiv.org/abs/1904.10620)
+[![Paper](https://img.shields.io/badge/arXiv-2312.12246-44cc11.svg)](https://arxiv.org/abs/2312.12246)
 
 </div>
 
