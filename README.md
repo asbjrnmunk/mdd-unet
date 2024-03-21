@@ -15,13 +15,17 @@ Repository for the paper `MDD-UNet: Domain Adaptation for Medical Image Segmenta
 Please use
 ```
 @InProceedings{munk2023mddunet,
-  title={MDD-UNet: Domain Adaptation for Medical Image Segmentation with Theoretical Guarantees, a Proof of Concept},
-  author = {Munk, Asbjørn and Ma, Ao and Nielsen, Mads},
-  booktitle = {Proceedings of the 5th Northern Lights Deep Learning Conference (NLDL), PMLR 233, 2024.},
+  title = {{MDD}-{UN}et: Domain Adaptation for Medical Image Segmentation with Theoretical Guarantees, a Proof of Concept},
+  author = {Munk, Asbj{\o}rn and Ma, Ao and Nielsen, Mads},
+  booktitle = {Proceedings of the 5th Northern Lights Deep Learning Conference ({NLDL})},
+  pages = {174--180},
   year = {2024},
+  editor = {Lutchyn, Tetiana and Ramírez Rivera, Adín and Ricaud, Benjamin},
   volume = {233},
   series = {Proceedings of Machine Learning Research},
+  month = {09--11 Jan},
   publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v233/munk24a/munk24a.pdf},
+  url = {https://proceedings.mlr.press/v233/munk24a.html},
 }
-
 ```
